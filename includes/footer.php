@@ -9,7 +9,7 @@
               <h3>Categories</h3>
               <div class="list-group block">
                 <a href="#" class="list-group-item active">All Topics <span class="badge pull-right">14</span></a>
-                <a href="#" class="list-group-item">Mindfulness & Wellness<span class="color badge pull-right">4</span></a1>
+                <a href="#" class="list-group-item">Mindfulness & Wellness<span class="color badge pull-right">4</span></a>
                 <a href="#" class="list-group-item">Personal Growth<span class="color badge pull-right">9</span></a>
                 <a href="#" class="list-group-item">Nature & Environment<span class="color badge pull-right">12</span></a>
                 <a href="#" class="list-group-item">Everyday Joys<span class="color badge pull-right">7</span></a>
