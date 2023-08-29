@@ -40,7 +40,7 @@
                       <div class="topic-content pull-right">
                         <h3><a href="topic.html" class="topic-title">Reflecting on Life Lessons and Milestones</a></h3>
                         <div class="topic-info">
-                          <a href="category.html">Personal Growth</a> >> <a href="profile.html">Apostolia Delikosta</a> >> Posted on: July 12, 2023
+						  <a href="category.html">Personal Growth</a> >> <a href="profile.html">Apostolia Delikosta</a> >> Posted on: July 12, 2023
                           <span class="color badge pull-right">7</span>
                         </div>
                       </div>
